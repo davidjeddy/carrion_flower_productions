@@ -1,7 +1,6 @@
-Carrion Flower Productions
+# Carrion Flower Productions
 
-
-# Usage
+## Usage
 
 ```bash
 ./helpers/sync.sh
